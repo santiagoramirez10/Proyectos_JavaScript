@@ -14,5 +14,5 @@
 <h2>Listado de proyectos</h2>
 
 <ul>
-    <li><a href="https://github.com/santiagoramirez10/Proyectos_JavaScript/tree/main/Innovacion_social">Reto de innovación social de maratón Ruta N.</a></li>
+    <li><a href="https://github.com/santiagoramirez10/Proyectos_JavaScript/tree/main/Innovacion_social">Reto innovación social.</a></li>
 </ul>
